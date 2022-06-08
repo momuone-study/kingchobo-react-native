@@ -103,6 +103,6 @@ Activity Indicator : Loading Component
 
 #### result images
 
-![KakaoTalk_20220609_004043697](https://user-images.githubusercontent.com/46738049/172659243-bbbe5707-14ab-4184-a70e-20fb4a2387d3.png)
+<img src="https://user-images.githubusercontent.com/46738049/172659243-bbbe5707-14ab-4184-a70e-20fb4a2387d3.png" width="200" height="400"/>
 
 
