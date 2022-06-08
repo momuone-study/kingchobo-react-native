@@ -75,3 +75,28 @@ export default function App() {
 #### Styles
 
 ** 폰 흔들면 메뉴 보임 **
+
+스크롤하기 -> `ScrollView` Component 사용하기.
+
+- horizontal 사용 -> 가로로 스크롤 가능
+- ScrollView를 쓸 때, ScrollView의 style을 주고싶다면 contentContainerStyle을 사용해야함.
+- ScrollView에서는 flex를 사용해야할 필요가 없음.
+- pagingEnabled 속성
+- showsHorizontalScrollIndicator : false || true
+- indicatorStyle : 페이지 인디케이터 속성 변경 가능
+
+핸드폰 사이즈 API -> `Dimenstions` Component
+
+#### location
+
+`expo install expo-location`
+
+#### Weather
+
+https://openweathermap.org/api
+
+Activity Indicator : Loading Component
+
+다른 style + 개별 스타일 : 이중괄호 + spread 연산자 쓰기
+
+`{{ ...styles.day, alignItems: "center" }}`
