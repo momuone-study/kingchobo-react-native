@@ -100,3 +100,9 @@ Activity Indicator : Loading Component
 다른 style + 개별 스타일 : 이중괄호 + spread 연산자 쓰기
 
 `{{ ...styles.day, alignItems: "center" }}`
+
+#### result images
+
+![KakaoTalk_20220609_004043697](https://user-images.githubusercontent.com/46738049/172659243-bbbe5707-14ab-4184-a70e-20fb4a2387d3.png)
+
+
